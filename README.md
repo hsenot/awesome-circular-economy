@@ -12,6 +12,7 @@ A curated collection of resources to explore the circular economy including data
   - [National Waste Report - Department of Climate Change, Energy, the Environment and Water](https://www.dcceew.gov.au/environment/protection/waste/national-waste-reports)  
   - [National Waste Database](https://www.environment.gov.au/protection/waste-resource-recovery/national-waste-reports/data)
   - [Australian National Waste Data System (ANWDS)](https://www.dcceew.gov.au/environment/protection/waste/anwds) The ANWDS provides location and operational data for waste processing and recycling facilities across Australia, including material types processed.
+  - [Victoria's waste and resource recovery infrastructure map](https://www.vic.gov.au/victorias-waste-and-resource-recovery-infrastructure-map) [CSV download](https://www.vic.gov.au/sites/default/files/2024-11/Victoria%27s-waste-and-resource-recovery-infrastructure-map-data-October-2024.csv)
   - [Hazardous Waste in Australia Reports](https://www.dcceew.gov.au/environment/protection/hazardous-waste/publications) A series of reports and datasets outlining hazardous waste generation, flows, and recovery, including data on e-waste processing locations and capacities.
   - [Fight Food Waste CRC (Cooperative Research Centre)](https://fightfoodwastecrc.com.au) Aggregates food waste statistics, recovery projects, and case studies by sector (e.g., agriculture, hospitality, retail). Provides datasets for food diversion rates and initiatives.
 - **Import/Export Data**  
